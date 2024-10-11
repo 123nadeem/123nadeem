@@ -40,12 +40,6 @@ Docker, Git, GitHub
 ### [Real-Time Human Emotion Detection](https://github.com/123nadeem/Real-Time-Human-Emotion-Detection)
 - Implemented real-time emotion detection using advanced deep learning models for facial analysis and emotion recognition.
 
-### [Wheat Grain Prediction and Analysis on Indian Dataset](https://github.com/123nadeem/Wheet_Grain_Prediction_and_Analysis_on_Indian_Dataset)
-- Created a predictive analysis model to assess and classify wheat grain quality using a dataset from India, enhancing agricultural decision-making.
-
-### [Age and Sex Prediction Using CNN and YOLOv8](https://github.com/123nadeem/Age-and-Sex-prediction-using-CNN-and-Yolov8)
-- Developed a system using Convolutional Neural Networks (CNN) and YOLOv8 for real-time age and gender prediction from facial images.
-
 ### [Facial Recognition](https://github.com/123nadeem/Facial-Recognition)
 - Built a facial recognition system for secure and accurate identification using computer vision techniques.
 
@@ -54,12 +48,6 @@ Docker, Git, GitHub
 
 ### [Netflix Exploratory Data Analysis](https://github.com/123nadeem/Netflix-Exploratory-Data-Analysis)
 - Conducted an in-depth exploratory data analysis of Netflix datasets to uncover trends, patterns, and insights for streaming content and user behavior.
-
-### [Brain MRI Detection Using CNN and YOLOv8](https://github.com/123nadeem/Brain_MRI_Detection_using_CNN-and-Yolov8)
-- Developed a brain MRI detection model using CNN and YOLOv8 for detecting abnormalities in medical imaging.
-
-### [Blog Generator Using LLaMA2](https://github.com/123nadeem/Blog_Generator-using-Llama2)
-- Created a blog generation tool powered by LLaMA2, allowing users to automatically generate content based on topics and user prompts.
 
 ### [Medical Chatbot Using LLaMA2](https://github.com/123nadeem/Medical-Chatbot-using-Llama2)
 - Developed a medical chatbot utilizing LLaMA2 to provide healthcare-related answers and recommendations based on medical literature.
