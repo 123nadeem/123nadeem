@@ -64,8 +64,6 @@ Docker, Git, GitHub
 
 ## 💬 How to reach me:
 
-- 📧 **Email**: [nadeem.qamar313@gmail.com](mailto:nadeem.qamar313@gmail.com)
-- 💼 **LinkedIn**: [Nadeem Akhtar Qamar](https://www.linkedin.com/in/nadeem-qamar-10b492219)
 - 💻 **GitHub**: [123nadeem](https://github.com/123nadeem)
 - 🌐 **Stack Overflow**: [Nadeem Qamar](https://stackoverflow.com/users/16687748/nadeem-qamar)
 
